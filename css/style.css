@@ -1,0 +1,258 @@
+body {
+  background-image: url('../images/concrete_seamless.png');
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+  color: #4aaaa5;
+}
+h2 {
+  margin-bottom: 20px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+  color: #4aaaa5;
+  font-size: 22px;
+}
+p {
+  font-size: 16px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+}
+
+/*/general*/
+/* navbar*/
+#logoName {
+  line-height: 70px;
+  background-color: #4aaaa5;
+  color: #fff;
+  padding: 8px;
+  margin-bottom: 0;
+}
+
+#main {
+  margin: 0 auto;
+}
+
+#main-folio {
+  margin: 0 auto;
+}
+.navbar {
+  /* controls nav bar and space under it */
+  border-bottom: 2px solid #ccc;
+  background-color: #ffffff;
+  text-align: center;
+  margin-bottom: 40px;
+  text-decoration: none;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 0px;
+}
+
+.footer {
+  min-width: 100%;
+}
+
+.navbar-nav {
+  /*controls nav list*/
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  background-color: #ffffff;
+  color: #777777;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar-header {
+  /*controls brand name*/
+
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.button {
+  /**/
+  background: #4aaaa5;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+}
+
+a.navbar-brand {
+  margin-bottom: 0px;
+  margin-top: 40px;
+  padding-top: 20px;
+  font-size: 40px;
+
+  color: #fff;
+  background-color: #4aaaa5;
+}
+a.navbar-brand #nameBrand {
+  margin-top: 20px;
+}
+
+/* header*/
+
+.back{
+
+
+  width: 650px;
+  padding: 50px;
+ 
+  background-color: #fff;
+  border: 1px solid #ddd;
+
+
+}
+
+.back{
+
+
+}
+
+
+.page-header {
+  width: 100%;
+  width: 650px;
+  padding: 50px;
+  margin: 0 0 40px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+.panel {
+  width: 270px;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  background-color: #fff;
+}
+.pull-left {
+  margin: 0 30px 20px 0;
+}
+
+.panel-title {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+  color: #4aaaa5;
+  font-size: 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.panel-body {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: 700;
+  color: #4aaaa5;
+  font-size: 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.panel-heading {
+  background-color: #fff;
+  padding: 0px;
+}
+
+.panel-default {
+  background-color: #fff;
+}
+
+.github {
+  padding: 0px;
+  height: 50px;
+  width: 50px;
+}
+
+.linkedin {
+  padding: 0px;
+  margin: 0px;
+  height: 50px;
+  width: 50px;
+}
+
+.stackoverflow {
+  padding: 0px;
+  margin: 0px;
+  height: 50px;
+  width: 50px;
+}
+
+.text-overlay1,
+.text-overlay2,
+.text-overlay3,
+.text-overlay4,
+.text-overlay5 {
+  top: 250px;
+}
+
+.image-overlay1,
+.image-overlay2,
+.image-overlay3,
+.image-overlay4,
+.image-overlay5 {
+  position: relative;
+  width: 480px;
+  margin: 10px;
+}
+
+.image-overlay1,
+.image-overlay2,
+.image-overlay3,
+.image-overlay4,
+.image-overlay5 {
+  position: relative;
+  width: 280px;
+  margin: 10px;
+}
+
+.text-overlay1,
+.text-overlay2,
+.text-overlay3,
+.text-overlay4,
+.text-overlay5 {
+  position: absolute;
+  top: 130px;
+  left: 0px;
+  width: 100%;
+  padding: 20px 0px 20px 10px;
+  background-color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  float: left;
+}
+
+#portfolio-pic: {
+  position: relative;
+  width: 280px;
+  margin: 20px 0 25px;
+  overflow: auto;
+}
+.footer {
+  padding: 30px 0;
+  background-color: #666666;
+  text-align: center;
+  font-size: 12px;
+  color: #ffffff;
+  border-top: 1px solid #4aaaa5;
+  position: absolute;
+  bottom: 0px;
+
+}
+
+.btn-primary {
+  background-color: #4aaaa5;
+  border-color: #4aaaa5;
+}
+
+.form-group {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+}
+
